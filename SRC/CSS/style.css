@@ -1,0 +1,29 @@
+/*Changing backgroung color*/
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #FFB6C1;
+}
+
+/*Centering the cooking and changing size of div*/
+.cookie {
+  height: 19rem;
+  width: 20rem;
+  border-radius: 100%;
+  margin: 50px auto;
+}
+
+/*Centering text and adding shadow*/
+.text {
+  text-align: center;
+  font-size: 3rem;
+  text-shadow: 2px 2px #00FFFF;
+}
+
+/*Centering text and adding shadow*/
+h1 {
+  margin-left: 1rem;
+  margin-top: 3rem;
+  text-decoration: underline;
+  text-shadow: 2px 2px #00FFFF;
+}
